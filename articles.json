@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "AI e Diagnosi Precoce: Modelli Predittivi in Pediatria",
+    "abstract": "Analisi dell'applicazione di modelli di machine learning per la diagnosi precoce di patologie pediatriche attraverso l'analisi di dati clinici strutturati e non strutturati.",
+    "category": "Research",
+    "date": "2024",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&auto=format&fit=crop",
+    "readTime": "12 min",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "Large Language Models nella Pratica Clinica Pediatrica",
+    "abstract": "Studio sull'integrazione di modelli di linguaggio avanzati (GPT, Claude) come supporto decisionale per pediatri, con focus su sicurezza, trasparenza e validazione clinica.",
+    "category": "Case Study",
+    "date": "2024",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop",
+    "readTime": "15 min",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "title": "Computer Vision per l'Analisi di Immagini Dermatologiche Pediatriche",
+    "abstract": "Sviluppo e validazione di sistemi CNN per il riconoscimento automatico di lesioni cutanee in età pediatrica, con particolare attenzione all'accuratezza diagnostica.",
+    "category": "Technical",
+    "date": "2024",
+    "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=800&auto=format&fit=crop",
+    "readTime": "10 min",
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "title": "Etica dell'AI in Pediatria: Framework e Linee Guida",
+    "abstract": "Proposta di un framework etico per l'implementazione responsabile dell'intelligenza artificiale nella medicina dell'infanzia, bilanciando innovazione e sicurezza.",
+    "category": "Ethics",
+    "date": "2024",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop",
+    "readTime": "8 min",
+    "link": "#"
+  }
+]
